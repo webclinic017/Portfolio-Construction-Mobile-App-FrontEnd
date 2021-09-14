@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="141" viewBox="0 0 141 141">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_615" data-name="Rectangle 615" width="62" height="62" rx="20" fill="#23ad8d"/>
+    </clipPath>
+  </defs>
+  <g id="equity" transform="translate(-6256 -4147)">
+    <rect id="Rectangle_606" data-name="Rectangle 606" width="141" height="141" rx="10" transform="translate(6256 4147)" fill="#fff"/>
+    <g id="Group_842" data-name="Group 842" transform="translate(0 -10)">
+      <text id="Equity_Only" data-name="Equity Only" transform="translate(6327 4260)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-50.493" y="0">Equity Only</tspan></text>
+      <g id="Mask_Group_61" data-name="Mask Group 61" transform="translate(6296 4191)" clip-path="url(#clip-path)">
+        <path id="speed" d="M0,32.324a24.745,24.745,0,0,1,42.242-17.5,24.583,24.583,0,0,1,7.248,17.5v1.45H29.673a5.2,5.2,0,0,1-9.4,1,5.243,5.243,0,0,1-.456-1H0Zm22.768.976a2.3,2.3,0,1,0-.246-1.74,2.3,2.3,0,0,0,.246,1.74ZM19.7,30.874c0-.012.006-.025.009-.038a5.165,5.165,0,0,1,1.246-2.264l-4.167-7.058,2.5-1.474L23.456,27.1a5.2,5.2,0,0,1,6.331,3.776H46.542a21.682,21.682,0,0,0-2.2-8.191l-3.22,1.859-1.45-2.511,3.216-1.857A22.024,22.024,0,0,0,36.9,14.179L35.038,17.4l-2.511-1.45,1.859-3.22a21.682,21.682,0,0,0-8.191-2.2v3.721h-2.9V10.528a21.682,21.682,0,0,0-8.191,2.2l1.859,3.22L14.452,17.4l-1.857-3.216A22.026,22.026,0,0,0,6.6,20.174l3.216,1.857-1.45,2.511-3.22-1.859a21.682,21.682,0,0,0-2.2,8.191Z" transform="translate(6.255 0.389)" fill="#23ad8d"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+ion-content ion-toolbar {
+  --background: transparent;
+}
+
+.img {
+  margin-left: 10%;
+
+}

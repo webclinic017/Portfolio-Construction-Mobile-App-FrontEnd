@@ -1,0 +1,8 @@
+ion-content ion-toolbar {
+  --background: transparent;
+}
+
+.cuscorner{
+  box-shadow: 1px 2px 3px #dedede !important;
+  border-radius: 10px !important;
+}

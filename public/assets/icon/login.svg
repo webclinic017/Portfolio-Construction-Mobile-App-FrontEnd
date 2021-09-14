@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="94" viewBox="0 0 540 94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_455" data-name="Rectangle 455" width="34" height="34" transform="translate(32 117)" fill="#4fcaae" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="login" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Login_Here" data-name="Login Here" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Login Here</tspan></text>
+    <text id="Enter_your_email_id_and_password_to_login" data-name="Enter your email id and password to login" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Enter your email id and password to login</tspan></text>
+    <g id="Mask_Group_57" data-name="Mask Group 57" clip-path="url(#clip-path)">
+      <g id="login-2" data-name="login" transform="translate(32 117)">
+        <path id="Path_2561" data-name="Path 2561" d="M30.914.021c-.035,0-.065-.021-.1-.021H15.583a4.255,4.255,0,0,0-4.25,4.25V5.667a1.417,1.417,0,1,0,2.833,0V4.25a1.419,1.419,0,0,1,1.417-1.417h6.6l-.432.144a2.848,2.848,0,0,0-1.918,2.689v21.25h-4.25A1.419,1.419,0,0,1,14.167,25.5V22.667a1.417,1.417,0,0,0-2.833,0V25.5a4.255,4.255,0,0,0,4.25,4.25h4.25v1.417A2.836,2.836,0,0,0,22.667,34a2.972,2.972,0,0,0,.9-.14l8.511-2.838A2.847,2.847,0,0,0,34,28.333V2.833A2.839,2.839,0,0,0,30.914.021Zm0,0" fill="#4fcaae"/>
+        <path id="Path_2562" data-name="Path 2562" d="M15.168,13.165,9.5,7.5a1.416,1.416,0,0,0-2.418,1v4.25H1.417a1.417,1.417,0,0,0,0,2.833H7.083v4.25a1.416,1.416,0,0,0,2.418,1l5.667-5.667a1.415,1.415,0,0,0,0-2Zm0,0" fill="#4fcaae"/>
+      </g>
+    </g>
+  </g>
+</svg>

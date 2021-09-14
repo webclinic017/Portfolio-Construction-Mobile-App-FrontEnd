@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="query" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Query-2" data-name="Query" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Query</tspan></text>
+    <text id="Send_your_issues_over_here" data-name="Send your issues over here" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Send your issues over here</tspan></text>
+    <rect id="Rectangle_603" data-name="Rectangle 603" width="34" height="34" rx="17" transform="translate(32 117)" fill="#4fcaae"/>
+    <text id="_" data-name="?" transform="translate(43 143)" fill="#f8fffd" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+  </g>
+</svg>

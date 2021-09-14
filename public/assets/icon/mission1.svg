@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="474" height="200" viewBox="0 0 474 200">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1fc28b"/>
+      <stop offset="1" stop-color="#26c462"/>
+    </linearGradient>
+  </defs>
+  <g id="mission1" transform="translate(1493 3766)">
+    <g id="mission" transform="translate(-1526 -4091)">
+      <rect id="Rectangle_336" data-name="Rectangle 336" width="474" height="200" rx="15" transform="translate(33 325)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_844" data-name="Group 844" transform="translate(-11 -6)">
+      <text id="Our_Mission" data-name="Our Mission" transform="translate(-1452 -3722)" fill="#bdffe1" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Our Mission</tspan></text>
+      <text id="To_help_the_Indian_with_a_crore_dreams_make_their_first_crore" data-name="To help the Indian with a
+crore dreams make their first crore" transform="translate(-1452 -3691)" fill="#fff" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="24">To help the Indian with a</tspan><tspan x="0" y="54">crore dreams make their first crore</tspan></text>
+      <g id="Group_843" data-name="Group 843" transform="translate(143)">
+        <path id="Polygon_15" data-name="Polygon 15" d="M5,0l5,9H0Z" transform="translate(-1181 -3596) rotate(90)" fill="#fff"/>
+        <text id="Click_Here_Know_More" data-name="Click Here Know More" transform="translate(-1200 -3584)" fill="#fff" font-size="22" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-211.288" y="0">Click Here Know More</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

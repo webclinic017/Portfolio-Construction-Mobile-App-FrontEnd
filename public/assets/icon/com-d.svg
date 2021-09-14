@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="com-d" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Company_details" data-name="Company details" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Company details</tspan></text>
+    <text id="Details_for_company" data-name="Details for company" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Does this company deserve your capital</tspan></text>
+    <g id="sprout" transform="translate(-7 87.185)">
+      <path id="Path_1983" data-name="Path 1983" d="M268.1,34.052a.6.6,0,0,1-.143.842l-2.676,1.917h2.33a4.212,4.212,0,0,0,4.21-4.21V32H268.21A4.212,4.212,0,0,0,264,36.21v.038l3.262-2.33A.6.6,0,0,1,268.1,34.052Z" transform="translate(-207.162)" fill="#4fcaae"/>
+      <path id="Path_1984" data-name="Path 1984" d="M152,448.6v1.8h7.216V448H152.6A.6.6,0,0,0,152,448.6Z" transform="translate(-103.581 -384.729)" fill="#4fcaae"/>
+      <path id="Path_1985" data-name="Path 1985" d="M54.929,98.394l-7.607-5.818a1.811,1.811,0,0,0-2.375.158l-.459.459,4.33,3.789a.6.6,0,0,1-.789.91l-4.811-4.21a.611.611,0,0,1-.2-.428l-.526-12.1A1.213,1.213,0,0,0,41.278,80H41.2A1.206,1.206,0,0,0,40,81.2v13.23a1.8,1.8,0,0,0,.722,1.443l8.66,6.495a.605.605,0,0,1,.241.481v3.608h6.014V99.83A1.82,1.82,0,0,0,54.929,98.394Z" transform="translate(0 -44.392)" fill="#4fcaae"/>
+      <path id="Path_1986" data-name="Path 1986" d="M148.555,81.917l3.262,2.33V84.21a4.212,4.212,0,0,0-4.21-4.21H144v.6a4.212,4.212,0,0,0,4.21,4.21h2.33l-2.684-1.917a.6.6,0,1,1,.7-.977Z" transform="translate(-96.182 -44.392)" fill="#4fcaae"/>
+      <path id="Path_1987" data-name="Path 1987" d="M166.254,194.3a4.228,4.228,0,0,0-4.18,0l-5.375,3.074,6.886,5.269a3.056,3.056,0,0,1,.579.586,2.854,2.854,0,0,1,.579-.586l6.886-5.269Z" transform="translate(-107.928 -149.591)" fill="#4fcaae"/>
+      <path id="Path_1988" data-name="Path 1988" d="M270.615,448H264v2.405h7.216v-1.8A.6.6,0,0,0,270.615,448Z" transform="translate(-207.162 -384.729)" fill="#4fcaae"/>
+      <path id="Path_1989" data-name="Path 1989" d="M279.728,94.433V81.2a1.206,1.206,0,0,0-1.2-1.2h-.075a1.2,1.2,0,0,0-1.2,1.15l-.526,12.1a.626.626,0,0,1-.2.428l-4.811,4.21a.6.6,0,0,1-.789-.91l4.33-3.789-.459-.459a1.81,1.81,0,0,0-2.375-.158l-7.607,5.818a1.82,1.82,0,0,0-.707,1.436v6.63h6.014v-3.608a.605.605,0,0,1,.241-.481l8.66-6.495A1.82,1.82,0,0,0,279.728,94.433Z" transform="translate(-207.254 -44.392)" fill="#4fcaae"/>
+      <path id="Path_1990" data-name="Path 1990" d="M249.2,79.983V72.6a.6.6,0,1,0-1.2,0v7.382A5.363,5.363,0,0,1,249.2,79.983Z" transform="translate(-192.364 -36.993)" fill="#4fcaae"/>
+    </g>
+  </g>
+</svg>

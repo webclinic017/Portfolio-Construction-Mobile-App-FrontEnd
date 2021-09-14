@@ -1,0 +1,17 @@
+.border-style{
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+}
+
+.mx-2{
+    margin: 0 15px;
+}
+
+.mt-2{
+    margin-top: 20px;
+}
+
+.mb-2{
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="94" viewBox="0 0 540 94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_455" data-name="Rectangle 455" width="34" height="34" transform="translate(32 117)" fill="#4fcaae" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="monitor" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Monitor-2" data-name="Monitor" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Monitor FI</tspan></text>
+    <text id="Monitoring_Updates" data-name="Monitoring Updates" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Monitoring Updates</tspan></text>
+    <g id="Mask_Group_41" data-name="Mask Group 41" clip-path="url(#clip-path)">
+      <g id="Group_657" data-name="Group 657" transform="translate(32 117.001)">
+        <path id="Path_2158" data-name="Path 2158" d="M31.159,20.2V5.666a2.835,2.835,0,0,0-2.832-2.832H24.786a.708.708,0,0,0-.708.708v3.54a1.417,1.417,0,1,1-1.887-1.326.709.709,0,0,0,.464-.667V.708a.708.708,0,0,0-1.417,0V2.832H10.622a.708.708,0,0,0-.708.708V7.081a1.417,1.417,0,1,1-1.88-1.326A.709.709,0,0,0,8.5,5.088V.708a.708.708,0,0,0-1.417,0V2.832H2.832A2.835,2.835,0,0,0,0,5.666v22.66a2.835,2.835,0,0,0,2.832,2.832H20.2A7.787,7.787,0,1,0,31.158,20.2Zm-12.747,6a7.753,7.753,0,0,0,.309,2.124H2.832v-17H28.326v7.384A7.769,7.769,0,0,0,18.411,26.2Zm11.831-1.624-4.957,4.957a.708.708,0,0,1-1,0L22.161,27.41a.708.708,0,0,1,1-1l1.624,1.624,4.456-4.456a.708.708,0,0,1,1,1Z" fill="#4fcaae"/>
+      </g>
+    </g>
+  </g>
+</svg>

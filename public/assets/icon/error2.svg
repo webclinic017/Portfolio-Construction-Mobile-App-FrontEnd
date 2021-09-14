@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354" height="133.07" viewBox="0 0 354 133.07">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1fc28b"/>
+      <stop offset="1" stop-color="#26c462"/>
+    </linearGradient>
+  </defs>
+  <g id="error2" transform="translate(1066 5938)" opacity="0.8">
+    <text id="Your_haven_t_checked_a_few_portfolio_action._May_prove_fatal_for_your_financial_health." data-name="Your haven&apos;t checked a few portfolio action.
+May prove fatal for your financial health." transform="translate(-889 -5833.93)" fill="#252525" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-176.401" y="0">Your haven&apos;t checked a few portfolio action.</tspan><tspan x="-163.415" y="24">May prove fatal for your financial health.</tspan></text>
+    <g id="bill_tax_invoice" data-name="bill, tax, invoice" transform="translate(-916 -5938)">
+      <path id="Path_2474" data-name="Path 2474" d="M10,6V66.379H56.961V6ZM28.449,26.126a1.682,1.682,0,0,1-1.677-1.677V17.74a1.682,1.682,0,0,1,1.677-1.677H31.8V14.386a1.677,1.677,0,0,1,3.354,0v1.677h3.354a1.677,1.677,0,1,1,0,3.354H30.126v3.354h8.386a1.682,1.682,0,0,1,1.677,1.677v6.709a1.682,1.682,0,0,1-1.677,1.677H35.158v1.677a1.677,1.677,0,0,1-3.354,0V32.835H28.449a1.677,1.677,0,1,1,0-3.354h8.386V26.126ZM48.575,59.67H18.386a1.677,1.677,0,1,1,0-3.354H48.575a1.677,1.677,0,1,1,0,3.354Zm0-6.709H18.386a1.677,1.677,0,1,1,0-3.354H48.575a1.677,1.677,0,1,1,0,3.354Zm0-6.709H18.386a1.677,1.677,0,1,1,0-3.354H48.575a1.677,1.677,0,1,1,0,3.354Z" transform="translate(-6.646 -2.646)" opacity="0.6" fill="url(#linear-gradient)"/>
+      <g id="Group_797" data-name="Group 797" transform="translate(0 0)">
+        <path id="Path_2475" data-name="Path 2475" d="M59.993,4H9.677A1.682,1.682,0,0,0,8,5.677V69.41a1.682,1.682,0,0,0,1.677,1.677H59.993A1.682,1.682,0,0,0,61.67,69.41V5.677A1.682,1.682,0,0,0,59.993,4ZM58.316,67.733H11.354V7.354H58.316Z" transform="translate(-8 -4)" fill="url(#linear-gradient)"/>
+        <path id="Path_2476" data-name="Path 2476" d="M21.677,26.772a1.677,1.677,0,1,0,0,3.354h3.354V31.8a1.677,1.677,0,0,0,3.354,0V30.126H31.74a1.682,1.682,0,0,0,1.677-1.677V21.74a1.682,1.682,0,0,0-1.677-1.677H23.354V16.709H31.74a1.677,1.677,0,1,0,0-3.354H28.386V11.677a1.677,1.677,0,0,0-3.354,0v1.677H21.677A1.682,1.682,0,0,0,20,15.032V21.74a1.682,1.682,0,0,0,1.677,1.677h8.386v3.354Z" transform="translate(0.126 0.063)" fill="#fff"/>
+        <path id="Path_2477" data-name="Path 2477" d="M15.677,35.354H45.867a1.677,1.677,0,0,0,0-3.354H15.677a1.677,1.677,0,1,0,0,3.354Z" transform="translate(-3.937 14.961)" opacity="0.3" fill="url(#linear-gradient)"/>
+        <path id="Path_2478" data-name="Path 2478" d="M15.677,39.354H45.867a1.677,1.677,0,0,0,0-3.354H15.677a1.677,1.677,0,1,0,0,3.354Z" transform="translate(-3.937 17.67)" opacity="0.3" fill="url(#linear-gradient)"/>
+        <path id="Path_2479" data-name="Path 2479" d="M15.677,31.354H45.867a1.677,1.677,0,1,0,0-3.354H15.677a1.677,1.677,0,1,0,0,3.354Z" transform="translate(-3.937 12.252)" opacity="0.3" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

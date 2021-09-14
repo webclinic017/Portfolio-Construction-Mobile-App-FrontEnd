@@ -1,0 +1,13 @@
+ion-content ion-toolbar {
+  --background: transparent;
+}
+
+.pt-71 {
+  padding-top: 4% !important;
+  margin-bottom: 7% !important;
+}
+
+.pt-72 {
+  padding-top: 4% !important;
+  margin-bottom: 7% !important;
+}

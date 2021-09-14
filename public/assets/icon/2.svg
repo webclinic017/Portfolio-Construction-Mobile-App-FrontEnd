@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381" height="403" viewBox="0 0 381 403">
+  <defs>
+    <filter id="Rectangle_399" x="0" y="0" width="381" height="403" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="57" height="57" transform="translate(-0.229 0.276)" fill="#1bb884" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_2" data-name="2" transform="translate(8.863 6)">
+    <g transform="matrix(1, 0, 0, 1, -8.86, -6)" filter="url(#Rectangle_399)">
+      <rect id="Rectangle_399-2" data-name="Rectangle 399" width="363" height="385" rx="10" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Value_at_right_price" data-name="Value at right price" transform="translate(182.137 296)" fill="#323232" font-size="32" font-family="Roboto-MediumItalic, Roboto" font-weight="500" font-style="italic"><tspan x="-132.313" y="0">Value at right price</tspan></text>
+    <g id="Group_665" data-name="Group 665" transform="translate(118.51 53.868)">
+      <rect id="Rectangle_344" data-name="Rectangle 344" width="127" height="127" rx="63.5" transform="translate(-0.373 0.132)" fill="#d9fff2"/>
+      <g id="Mask_Group_32" data-name="Mask Group 32" transform="translate(34.856 34.856)" clip-path="url(#clip-path)">
+        <g id="tag" transform="translate(0 0)">
+          <g id="Group_752" data-name="Group 752" transform="translate(0 0)">
+            <g id="Group_751" data-name="Group 751">
+              <rect id="Rectangle_454" data-name="Rectangle 454" width="18.675" height="21.924" transform="translate(30.946 46.504) rotate(-135)" fill="#1bb884"/>
+              <path id="Path_2263" data-name="Path 2263" d="M55.843,29.114,27.884,1.155A4.261,4.261,0,0,0,25.043,0h-.089L2.675.622H2.5l7.1,7.1A6.657,6.657,0,0,1,13.77,6.392,7.367,7.367,0,1,1,6.4,13.758q0-.044,0-.088A6.657,6.657,0,0,1,7.735,9.587L.545,2.4v.266L.013,24.854a3.55,3.55,0,0,0,1.154,2.929L29.126,55.92a4.172,4.172,0,0,0,5.681,0L55.843,34.884A4.083,4.083,0,0,0,55.843,29.114Zm-6.568,2.84-17.4,17.4a1.065,1.065,0,0,1-.888.444,1.421,1.421,0,0,1-.976-.444L14.925,34.263a1.331,1.331,0,0,1,0-1.864L32.322,15a1.243,1.243,0,0,1,1.864,0L49.275,30.091A1.321,1.321,0,0,1,49.275,31.955Z" transform="translate(0 -0.001)" fill="#1bb884"/>
+              <circle id="Ellipse_309" data-name="Ellipse 309" cx="4.704" cy="4.704" r="4.704" transform="translate(9.066 9.054)" fill="#1bb884"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

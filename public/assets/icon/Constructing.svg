@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="94" viewBox="0 0 540 94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_455" data-name="Rectangle 455" width="34" height="34" transform="translate(32 117)" fill="#4fcaae" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Constructing" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Constructing_your_portfolio" data-name="Constructing your portfolio" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Constructing your portfolio</tspan></text>
+    <text id="Constructing_your_portfolio-2" data-name="Constructing your portfolio" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Constructing your portfolio</tspan></text>
+    <g id="Mask_Group_59" data-name="Mask Group 59" clip-path="url(#clip-path)">
+      <g id="settings" transform="translate(32 117)">
+        <g id="Group_837" data-name="Group 837">
+          <g id="Group_836" data-name="Group 836">
+            <path id="Path_2570" data-name="Path 2570" d="M17,12.02A4.98,4.98,0,1,0,21.98,17,4.986,4.986,0,0,0,17,12.02Z" fill="#4fcaae"/>
+          </g>
+        </g>
+        <g id="Group_839" data-name="Group 839">
+          <g id="Group_838" data-name="Group 838">
+            <path id="Path_2571" data-name="Path 2571" d="M34,19.809V14.191l-4.609-.908a12.8,12.8,0,0,0-1-2.413L30.96,7.012,26.988,3.04,23.13,5.612a12.8,12.8,0,0,0-2.413-1L19.809,0H14.191l-.908,4.609a12.8,12.8,0,0,0-2.413,1L7.012,3.04,3.04,7.012,5.612,10.87a12.8,12.8,0,0,0-1,2.413L0,14.191v5.619l4.609.908a12.8,12.8,0,0,0,1,2.413L3.04,26.988,7.012,30.96l3.858-2.572a12.8,12.8,0,0,0,2.413,1L14.191,34h5.619l.908-4.609a12.8,12.8,0,0,0,2.413-1l3.858,2.572,3.972-3.972L28.388,23.13a12.8,12.8,0,0,0,1-2.413ZM17,23.973A6.973,6.973,0,1,1,23.973,17,6.981,6.981,0,0,1,17,23.973Z" fill="#4fcaae"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

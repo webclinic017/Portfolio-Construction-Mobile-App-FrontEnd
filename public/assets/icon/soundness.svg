@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381" height="403" viewBox="0 0 381 403">
+  <defs>
+    <filter id="Rectangle_401" x="0" y="0" width="381" height="403" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="57" height="57" transform="translate(34.49 35.03)" fill="#27bc8b" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="soundness" transform="translate(9 6.468)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6.47)" filter="url(#Rectangle_401)">
+      <rect id="Rectangle_401-2" data-name="Rectangle 401" width="363" height="385" rx="10" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Soundness_of_balance_sheet_" data-name="Soundness of
+balance sheet " transform="translate(182 270.532)" fill="#323232" font-size="30" font-family="Roboto-MediumItalic, Roboto" font-weight="500" font-style="italic"><tspan x="-90.315" y="0">Soundness of</tspan><tspan x="-95.486" y="37">balance sheet </tspan></text>
+    <g id="Group_667" data-name="Group 667" transform="translate(118.51 54.502)">
+      <rect id="Rectangle_344" data-name="Rectangle 344" width="126" height="127" rx="63" transform="translate(0.49 0.03)" fill="#d9fff2"/>
+      <g id="Mask_Group_37" data-name="Mask Group 37" clip-path="url(#clip-path)">
+        <g id="copy" transform="translate(34.49 35.03)">
+          <path id="Path_2283" data-name="Path 2283" d="M9.5,16.031A11.3,11.3,0,0,1,20.781,4.75H42.472A6.518,6.518,0,0,0,36.219,0H8.906A6.537,6.537,0,0,0,2.375,6.531V43.344a6.537,6.537,0,0,0,6.531,6.531H9.5Z" fill="#27bc8b"/>
+          <path id="Path_2284" data-name="Path 2284" d="M48.094,9.5H20.781a6.537,6.537,0,0,0-6.531,6.531V50.469A6.537,6.537,0,0,0,20.781,57H48.094a6.537,6.537,0,0,0,6.531-6.531V16.031A6.537,6.537,0,0,0,48.094,9.5Zm-4.75,40.375H25.531a1.781,1.781,0,0,1,0-3.562H43.344a1.781,1.781,0,0,1,0,3.563Zm0-9.5H25.531a1.781,1.781,0,0,1,0-3.562H43.344a1.781,1.781,0,0,1,0,3.563Zm0-8.312H25.531a1.781,1.781,0,0,1,0-3.562H43.344a1.781,1.781,0,0,1,0,3.563Zm0-9.5H25.531a1.781,1.781,0,0,1,0-3.562H43.344a1.781,1.781,0,0,1,0,3.563Z" fill="#27bc8b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

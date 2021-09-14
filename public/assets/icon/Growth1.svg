@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381" height="403" viewBox="0 0 381 403">
+  <defs>
+    <filter id="Rectangle_400" x="0" y="0" width="381" height="403" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="57" height="57" transform="translate(34.627 35.03)" fill="#27bc8b" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Growth1" transform="translate(8.863 6.468)">
+    <g transform="matrix(1, 0, 0, 1, -8.86, -6.47)" filter="url(#Rectangle_400)">
+      <rect id="Rectangle_400-2" data-name="Rectangle 400" width="363" height="385" rx="10" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Growth" transform="translate(182.137 295.532)" fill="#323232" font-size="30" font-family="Roboto-MediumItalic, Roboto" font-weight="500" font-style="italic"><tspan x="-47.205" y="0">Growth</tspan></text>
+    <g id="Group_666" data-name="Group 666" transform="translate(118.51 54.502)">
+      <rect id="Rectangle_344" data-name="Rectangle 344" width="127" height="127" rx="63.5" transform="translate(-0.373 0.03)" fill="#d9fff2"/>
+      <g id="Mask_Group_36" data-name="Mask Group 36" clip-path="url(#clip-path)">
+        <g id="statistics_3_" data-name="statistics (3)" transform="translate(34.627 35.03)">
+          <path id="Path_2281" data-name="Path 2281" d="M8.461,26.719a4.985,4.985,0,0,0,3.468-1.409l4.943,2.471a4.906,4.906,0,0,0-.061.607,5.01,5.01,0,0,0,10.02,0,4.949,4.949,0,0,0-.5-2.146l6.706-6.706a4.949,4.949,0,0,0,2.146.5,5.016,5.016,0,0,0,5.01-5.01,4.935,4.935,0,0,0-.25-1.484l5.826-4.369A5.006,5.006,0,1,0,43.529,5.01a4.935,4.935,0,0,0,.25,1.484l-5.826,4.369a4.988,4.988,0,0,0-7.281,6.313l-6.706,6.706a4.923,4.923,0,0,0-5.614.906l-4.943-2.471a4.906,4.906,0,0,0,.061-.607,5.01,5.01,0,1,0-5.01,5.01Zm0,0" fill="#27bc8b"/>
+          <path id="Path_2282" data-name="Path 2282" d="M55.33,53.66H53.549V18.369a1.669,1.669,0,0,0-1.67-1.67H45.2a1.669,1.669,0,0,0-1.67,1.67V53.66h-3.34V28.389a1.669,1.669,0,0,0-1.67-1.67H31.84a1.669,1.669,0,0,0-1.67,1.67V53.66H26.83V41.748a1.669,1.669,0,0,0-1.67-1.67H18.48a1.669,1.669,0,0,0-1.67,1.67V53.66h-3.34V35.068A1.669,1.669,0,0,0,11.8,33.4H5.121a1.669,1.669,0,0,0-1.67,1.67V53.66H1.67a1.67,1.67,0,0,0,0,3.34H55.33a1.67,1.67,0,0,0,0-3.34Zm0,0" fill="#27bc8b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+ion-content ion-toolbar {
+  --background: transparent;
+}
+
+.facebook {
+  --background: #4267B2
+}
+
+.google {
+  --background: #DB4437
+}

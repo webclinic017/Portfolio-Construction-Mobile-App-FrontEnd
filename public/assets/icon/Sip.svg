@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141">
+  <g id="sip" transform="translate(-6435 -5406)">
+    <g id="Conservative" transform="translate(179 1259)">
+      <rect id="Rectangle_606" data-name="Rectangle 606" width="141" height="141" rx="10" transform="translate(6256 4147)" fill="#fff"/>
+      <g id="Group_842" data-name="Group 842" transform="translate(0 -9)">
+        <text id="SIP-2" data-name="SIP" transform="translate(6327 4260)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-15.513" y="0">SIP</tspan></text>
+        <rect id="Rectangle_612" data-name="Rectangle 612" width="32" height="32" rx="4" transform="translate(6311 4191)" fill="#4fcaae"/>
+        <rect id="Rectangle_613" data-name="Rectangle 613" width="32" height="32" rx="4" transform="translate(6353 4191)" fill="#a3f3e1"/>
+        <rect id="Rectangle_614" data-name="Rectangle 614" width="32" height="32" rx="4" transform="translate(6269 4191)" fill="#23ad8d"/>
+      </g>
+    </g>
+    <path id="Polygon_13" data-name="Polygon 13" d="M4,0,8,6H0Z" transform="translate(6488 5452) rotate(90)" fill="#23ad8d"/>
+    <path id="Polygon_14" data-name="Polygon 14" d="M4,0,8,6H0Z" transform="translate(6530 5452) rotate(90)" fill="#4fcaae"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="investment" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Our_investment_philosophy" data-name="Our investment philosophy" transform="translate(86 141)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Our investment philosophy</tspan></text>
+    <g id="distributed" transform="translate(23.355 108)">
+      <path id="Path_1966" data-name="Path 1966" d="M36.165,21.138H30.154V30l-3.005-1.9V15.127h6.011V0H18.132V15.127h6.011V28.1L21.138,30V21.138H15.127V15.127H0V30.154H15.127V24.143h3.005V31.9l-1.5.951,9.016,6.011,9.016-6.011-1.5-.951V24.143h3.005v6.011H51.292V15.127H36.165ZM24.143,6.111h3.005V9.116H24.143ZM9.116,24.143H6.111V21.138H9.116Zm33.059-3.005h3.005v3.005H42.175Z" fill="#4fcaae"/>
+      <path id="Path_1967" data-name="Path 1967" d="M271,360.037v9.814l9.016-6.011v-9.814Z" transform="translate(-243.852 -318.56)" fill="#4fcaae"/>
+      <path id="Path_1968" data-name="Path 1968" d="M151,354.026v9.814l9.016,6.011v-9.814Z" transform="translate(-135.873 -318.56)" fill="#4fcaae"/>
+    </g>
+  </g>
+</svg>

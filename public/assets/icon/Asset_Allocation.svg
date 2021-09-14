@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="Asset_Allocation" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Asset_Allocation-2" data-name="Asset Allocation" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Asset Allocation</tspan></text>
+    <text id="we_ve_allocated_your_portfolio" data-name="we&apos;ve allocated your portfolio" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">we&apos;ve allocated your portfolio</tspan></text>
+    <g id="distributed" transform="translate(33 117)">
+      <path id="Path_1966" data-name="Path 1966" d="M23.291,13.613H19.42v5.709L17.485,18.1V9.742h3.871V0H11.678V9.742h3.871V18.1l-1.936,1.225V13.613H9.742V9.742H0V19.42H9.742V15.549h1.936v5l-.968.612,5.806,3.871,5.806-3.871-.968-.612v-5h1.936V19.42h9.742V9.742H23.291ZM15.549,3.936h1.936V5.871H15.549ZM5.871,15.549H3.936V13.613H5.871Zm21.291-1.936H29.1v1.936H27.162Z" fill="#4fcaae"/>
+      <path id="Path_1967" data-name="Path 1967" d="M271,357.9v6.321l5.807-3.871v-6.321Z" transform="translate(-253.515 -331.185)" fill="#4fcaae"/>
+      <path id="Path_1968" data-name="Path 1968" d="M151,354.026v6.321l5.807,3.871V357.9Z" transform="translate(-141.258 -331.185)" fill="#4fcaae"/>
+    </g>
+  </g>
+</svg>

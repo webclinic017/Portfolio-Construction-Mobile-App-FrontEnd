@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="94" viewBox="0 0 540 94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="540" height="94" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="review" clip-path="url(#clip-path)">
+    <g id="upload" transform="translate(0 -87)">
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+      <text id="Review_your_Portfolio" data-name="Review your Portfolio" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Review your Portfolio</tspan></text>
+      <text id="Optimize_portfolio_with_our_algorithm_for_better_performance" data-name="Optimize portfolio with our algorithm for better performance" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Optimize portfolio with our algorithm for better performance</tspan></text>
+      <g id="eye" transform="translate(34.658 5.27)">
+        <g id="Group_527" data-name="Group 527" transform="translate(-0.001 121)">
+          <g id="Group_526" data-name="Group 526">
+            <path id="Path_1977" data-name="Path 1977" d="M29.1,128.158c-.262-.292-6.556-7.158-14.44-7.158S.48,127.866.218,128.158a.859.859,0,0,0,0,1.146c.262.292,6.556,7.158,14.44,7.158S28.837,129.6,29.1,129.3A.859.859,0,0,0,29.1,128.158Zm-14.44,6.585a6.013,6.013,0,1,1,6.013-6.013A6.02,6.02,0,0,1,14.659,134.743Z" transform="translate(0.001 -121)" fill="#4fcaae"/>
+          </g>
+        </g>
+        <g id="Group_529" data-name="Group 529" transform="translate(10.364 124.436)">
+          <g id="Group_528" data-name="Group 528" transform="translate(0 0)">
+            <path id="Path_1978" data-name="Path 1978" d="M186.154,183.577a2.569,2.569,0,0,1,1.082-2.092,4.24,4.24,0,0,0-1.94-.485,4.295,4.295,0,1,0,4.222,5.019A2.562,2.562,0,0,1,186.154,183.577Z" transform="translate(-181 -181)" fill="#4fcaae"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

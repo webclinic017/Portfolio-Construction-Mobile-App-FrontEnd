@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="474" height="107" viewBox="0 0 474 107">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_314" data-name="Rectangle 314" width="20" height="20" transform="translate(322 501)" fill="#4fcaae" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="excel-up" transform="translate(-33 -236)">
+    <g id="Rectangle_371" data-name="Rectangle 371" transform="translate(33 236)" fill="#fff" stroke="#4fcaae" stroke-width="1">
+      <rect width="474" height="107" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="473" height="106" rx="9.5" fill="none"/>
+    </g>
+    <g id="surface1" transform="translate(66.5 270)" opacity="0.5">
+      <path id="Path_2045" data-name="Path 2045" d="M20.027,6.7V0H4.241A3.759,3.759,0,0,0,.5,3.731V35.119a3.759,3.759,0,0,0,3.741,3.731H26.77a3.759,3.759,0,0,0,3.741-3.731V11H24.334A4.3,4.3,0,0,1,20.027,6.7ZM8.887,19.229l6.023-6.464a.822.822,0,0,1,.606-.257.839.839,0,0,1,.606.257l6.023,6.464a.817.817,0,0,1-.6,1.377.875.875,0,0,1-.606-.257l-4.615-4.933V27.164a.822.822,0,1,1-1.644,0V15.416L10.089,20.35a.822.822,0,1,1-1.2-1.12Zm15.9,13.351a.825.825,0,0,1-.822.822H7.047a.822.822,0,0,1,0-1.644H23.974A.816.816,0,0,1,24.786,32.58Zm0,0" fill="#4fcaae"/>
+      <path id="Path_2046" data-name="Path 2046" d="M282.189,24.749h5.046l-7.708-8.088V22.1A2.647,2.647,0,0,0,282.189,24.749Zm0,0" transform="translate(-257.855 -15.396)" fill="#4fcaae"/>
+    </g>
+    <text id="Upload_excel_file" data-name="Upload excel file" transform="translate(127 286)" fill="#4fcaae" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Upload excel file</tspan></text>
+    <text id="If_you_re_having_more_than_10_stocks" data-name="If you&apos;re having more than 10 stocks" transform="translate(127 308)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">If you&apos;re having more than 10 stocks</tspan></text>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(131 -221)" clip-path="url(#clip-path)">
+      <path id="right-arrow" d="M15.575,5.23a.833.833,0,0,0-1.149,1.207L20.818,12.5H4.167a.833.833,0,0,0,0,1.667H20.791L14.425,20.23a.833.833,0,1,0,1.149,1.207l7.27-6.925a1.666,1.666,0,0,0-.015-2.371Z" transform="translate(318.667 497.667)" fill="#4fcaae"/>
+    </g>
+  </g>
+</svg>

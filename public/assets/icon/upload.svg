@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="upload" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Upload_Portfolio" data-name="Upload Portfolio" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Upload Portfolio</tspan></text>
+    <text id="Upload_your_portfolio_in_.xlx_format" data-name="Upload your portfolio in .xlx format" transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Upload your portfolio in .xlx format</tspan></text>
+    <g id="_" data-name="]" transform="translate(21 119)">
+      <g id="Group_523" data-name="Group 523" transform="translate(21.759)">
+        <g id="Group_522" data-name="Group 522">
+          <path id="Path_1975" data-name="Path 1975" d="M140.958,6.864,135.2.281a.821.821,0,0,0-1.237,0L128.2,6.864a.822.822,0,0,0,.619,1.364h3.291v10.7a.823.823,0,0,0,.823.823h3.291a.823.823,0,0,0,.823-.823V8.228h3.291a.822.822,0,0,0,.619-1.364Z" transform="translate(-127.998)" fill="#4fcaae"/>
+        </g>
+      </g>
+      <g id="Group_525" data-name="Group 525" transform="translate(16 18.101)">
+        <g id="Group_524" data-name="Group 524">
+          <path id="Path_1976" data-name="Path 1976" d="M37.392,352v4.937h-18.1V352H16v6.582a1.645,1.645,0,0,0,1.646,1.646H39.038a1.644,1.644,0,0,0,1.646-1.646V352Z" transform="translate(-16 -352)" fill="#4fcaae"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

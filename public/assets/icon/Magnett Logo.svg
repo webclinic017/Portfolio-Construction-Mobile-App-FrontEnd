@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="339" height="103" viewBox="0 0 339 103">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_425" data-name="Rectangle 425" width="339" height="67" transform="translate(102 247)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.63"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1012" data-name="Group 1012" transform="translate(-101 -519)">
+    <g id="Group_986" data-name="Group 986" transform="translate(0 282)">
+      <g id="Group_948" data-name="Group 948" transform="translate(0 -10)">
+        <g id="Mask_Group_18" data-name="Mask Group 18" transform="translate(-1)" clip-path="url(#clip-path)">
+          <g id="Group_914" data-name="Group 914" transform="translate(-8 -286)">
+            <g id="Group_905" data-name="Group 905" transform="translate(-132.313)">
+              <g id="fyuk" transform="translate(223.313 570.103) rotate(-45)">
+                <path id="Path_4079" data-name="Path 4079" d="M58.047,7.867A26.934,26.934,0,0,0,20,7.867L.462,27.4a1.576,1.576,0,0,0,0,2.229l11.7,11.7a1.576,1.576,0,0,0,2.229,0L33.93,21.8A7.2,7.2,0,1,1,44.116,31.984L24.578,51.521a1.576,1.576,0,0,0,0,2.229l11.7,11.7a1.576,1.576,0,0,0,2.229,0L58.047,45.915A26.934,26.934,0,0,0,58.047,7.867ZM13.278,37.993,3.805,28.519l4.208-4.208,9.473,9.473ZM37.395,62.109l-9.473-9.473,4.208-4.208L41.6,57.9Z" transform="translate(0 0)" fill="#ff2020"/>
+              </g>
+              <g id="fyuk-2" data-name="fyuk" transform="translate(257.413 570.103) rotate(-45)">
+                <path id="Path_4079-2" data-name="Path 4079" d="M58.047,7.867A26.934,26.934,0,0,0,20,7.867L.462,27.4a1.576,1.576,0,0,0,0,2.229l11.7,11.7a1.576,1.576,0,0,0,2.229,0L33.93,21.8A7.2,7.2,0,1,1,44.116,31.984L24.578,51.521a1.576,1.576,0,0,0,0,2.229l11.7,11.7a1.576,1.576,0,0,0,2.229,0L58.047,45.915A26.934,26.934,0,0,0,58.047,7.867ZM13.278,37.993,3.805,28.519l4.208-4.208,9.473,9.473ZM37.395,62.109l-9.473-9.473,4.208-4.208L41.6,57.9Z" transform="translate(0 0)" fill="#02a9fa"/>
+              </g>
+            </g>
+            <text id="agnett" transform="translate(328 581)" font-size="79" font-family="FuturaPT-Bold, Futura PT" font-weight="700"><tspan x="-120.91" y="0">agnett</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Laws_of_attraction." data-name="Laws of attraction." transform="translate(124 617)" font-size="22" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">Laws of attraction.</tspan></text>
+    <text id="Rewritten." transform="translate(314 617)" font-size="22" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">Rewritten.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="search" transform="translate(1 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(-1 87)" fill="#f8fffd"/>
+    <text id="Search-2" data-name="Search" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Search</tspan></text>
+    <text id="Search_specific_stock_" data-name="Search specific stock " transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Search specific stock </tspan></text>
+    <g id="cf" transform="translate(29 114)">
+      <g id="Group_625" data-name="Group 625" transform="translate(6.094 8.786)">
+        <g id="Group_624" data-name="Group 624">
+          <path id="Path_2054" data-name="Path 2054" d="M82.075,111.414a1.5,1.5,0,0,0-2.118,0,10.235,10.235,0,0,0-2.927,8.3,1.5,1.5,0,0,0,1.489,1.349c.05,0,.1,0,.15-.008a1.5,1.5,0,0,0,1.341-1.639,7.251,7.251,0,0,1,2.065-5.88A1.5,1.5,0,0,0,82.075,111.414Z" transform="translate(-76.978 -110.976)" fill="#4fcaae"/>
+        </g>
+      </g>
+      <g id="Group_627" data-name="Group 627">
+        <g id="Group_626" data-name="Group 626">
+          <path id="Path_2055" data-name="Path 2055" d="M17.122,0A17.122,17.122,0,1,0,34.244,17.122,17.141,17.141,0,0,0,17.122,0Zm0,31.249A14.127,14.127,0,1,1,31.249,17.122,14.143,14.143,0,0,1,17.122,31.249Z" fill="#4fcaae"/>
+        </g>
+      </g>
+      <g id="Group_629" data-name="Group 629" transform="translate(26.656 26.656)">
+        <g id="Group_628" data-name="Group 628">
+          <path id="Path_2056" data-name="Path 2056" d="M350.147,348.03l-10.882-10.882a1.5,1.5,0,1,0-2.118,2.118l10.882,10.882a1.5,1.5,0,0,0,2.118-2.118Z" transform="translate(-336.708 -336.71)" fill="#4fcaae"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

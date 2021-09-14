@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="man" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="Add_Stocks" data-name="Add Stocks" transform="translate(86 131)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Add Stocks</tspan></text>
+    <text id="Enter_the_exact_quantity_and_price_that_you_have_transacted." data-name="Enter the exact quantity and price that you have transacted." transform="translate(86 153)" fill="#262626" font-size="15" font-family="Roboto-Regular, Roboto" opacity="0.4"><tspan x="0" y="0">Enter the exact quantity and price that you have transacted.</tspan></text>
+    <text id="_" data-name="+" transform="translate(38 147)" fill="#4fcaae" font-size="40" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>

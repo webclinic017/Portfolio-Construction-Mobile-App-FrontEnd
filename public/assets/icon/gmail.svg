@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-gmail">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="gmail" clip-path="url(#clip-gmail)">
+    <rect width="50" height="50" fill="#fff"/>
+    <g id="gmail-2" data-name="gmail" transform="translate(6 -53.986)">
+      <rect id="Rectangle_602" data-name="Rectangle 602" width="29" height="29" transform="translate(4.649 63.986)" fill="#eceff1"/>
+      <path id="Path_2567" data-name="Path 2567" d="M256,159.846l14.524,11.469V148.672Z" transform="translate(-236.634 -78.267)" fill="#cfd8dc"/>
+      <path id="Path_2568" data-name="Path 2568" d="M35.1,64H33.89L19.366,75.469,4.841,64H3.631A3.632,3.632,0,0,0,0,67.631V89.418a3.632,3.632,0,0,0,3.631,3.631h1.21V70.405L19.366,81.577,33.89,70.4V93.049H35.1a3.632,3.632,0,0,0,3.631-3.631V67.631A3.632,3.632,0,0,0,35.1,64Z" fill="#f44336"/>
+    </g>
+  </g>
+</svg>

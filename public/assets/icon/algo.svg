@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="94" viewBox="0 0 540 94">
+  <g id="algo" transform="translate(0 -87)">
+    <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+    <text id="The_algorithm" data-name="The algorithm" transform="translate(86 141)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">The algorithm</tspan></text>
+    <g id="coding" transform="translate(24.193 94.744)">
+      <path id="Path_2136" data-name="Path 2136" d="M0,53.791H23.353v5.814H11.725v2.907H37.888V59.605H26.26V53.791H49.613V16H0ZM2.907,18.907h43.8V50.884H2.907Z" fill="#4fcaae"/>
+      <path id="Path_2137" data-name="Path 2137" d="M216.238,231.818l3.8,3.257-3.8,3.257,1.892,2.207,6.375-5.464-6.375-5.464Z" transform="translate(-195.284 -192.912)" fill="#4fcaae"/>
+      <path id="Path_2138" data-name="Path 2138" d="M66.826,229.611l-6.375,5.464,6.375,5.464,1.892-2.207-3.8-3.257,3.8-3.257Z" transform="translate(-54.593 -192.912)" fill="#4fcaae"/>
+      <path id="Path_2139" data-name="Path 2139" d="M0,0H11.986V2.907H0Z" transform="translate(14.677 47.639) rotate(-75.936)" fill="#4fcaae"/>
+      <path id="Path_2140" data-name="Path 2140" d="M181,106h2.907v2.907H181Z" transform="translate(-163.461 -81.279)" fill="#4fcaae"/>
+      <path id="Path_2141" data-name="Path 2141" d="M241,106h2.907v2.907H241Z" transform="translate(-217.647 -81.279)" fill="#4fcaae"/>
+      <path id="Path_2142" data-name="Path 2142" d="M361,166h2.907v2.907H361Z" transform="translate(-326.019 -135.465)" fill="#4fcaae"/>
+      <path id="Path_2143" data-name="Path 2143" d="M421,166h2.907v2.907H421Z" transform="translate(-380.205 -135.465)" fill="#4fcaae"/>
+      <path id="Path_2144" data-name="Path 2144" d="M361,286h2.907v2.907H361Z" transform="translate(-326.019 -243.837)" fill="#4fcaae"/>
+      <path id="Path_2145" data-name="Path 2145" d="M421,286h2.907v2.907H421Z" transform="translate(-380.205 -243.837)" fill="#4fcaae"/>
+      <path id="Path_2146" data-name="Path 2146" d="M301,106h14.535v2.907H301Z" transform="translate(-271.833 -81.279)" fill="#4fcaae"/>
+      <path id="Path_2147" data-name="Path 2147" d="M331,226h2.907v2.907H331Z" transform="translate(-298.926 -189.651)" fill="#4fcaae"/>
+      <path id="Path_2148" data-name="Path 2148" d="M391,226h5.814v2.907H391Z" transform="translate(-353.112 -189.651)" fill="#4fcaae"/>
+      <path id="Path_2149" data-name="Path 2149" d="M61,106h8.721v2.907H61Z" transform="translate(-55.089 -81.279)" fill="#4fcaae"/>
+      <path id="Path_2150" data-name="Path 2150" d="M181,166h14.535v2.907H181Z" transform="translate(-163.461 -135.465)" fill="#4fcaae"/>
+      <path id="Path_2151" data-name="Path 2151" d="M91,166h5.814v2.907H91Z" transform="translate(-82.182 -135.465)" fill="#4fcaae"/>
+    </g>
+  </g>
+</svg>

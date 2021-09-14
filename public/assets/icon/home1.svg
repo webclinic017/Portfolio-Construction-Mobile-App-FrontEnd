@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="94" viewBox="0 0 540 94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_374" data-name="Rectangle 374" width="36" height="36" transform="translate(33 1047)" fill="#20c282" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="32" height="32" transform="translate(478.561 61.561)" fill="#20c282" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="home1" transform="translate(-5980 -6527)">
+    <g id="home1-2" data-name="home1" transform="translate(5980 6440)">
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="540" height="94" transform="translate(0 87)" fill="#f8fffd"/>
+      <text id="Home" transform="translate(86 141)" fill="#262626" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+      <g id="home-2" data-name="home" transform="translate(-3 -931)" clip-path="url(#clip-path)">
+        <g id="home-3" data-name="home" transform="translate(33 1047)">
+          <g id="Group_618" data-name="Group 618">
+            <g id="Group_617" data-name="Group 617">
+              <path id="Path_2047" data-name="Path 2047" d="M35.4,16.093,19.243,1.376a1.838,1.838,0,0,0-2.487,0L.6,16.093A1.846,1.846,0,0,0,1.848,19.3h2.58V34.05a1.059,1.059,0,0,0,1.059,1.059H14.34A1.059,1.059,0,0,0,15.4,34.05V25.1h5.2V34.05a1.059,1.059,0,0,0,1.059,1.059h8.853a1.059,1.059,0,0,0,1.059-1.059V19.3h2.58A1.846,1.846,0,0,0,35.4,16.093Z" fill="#20c282"/>
+            </g>
+          </g>
+          <g id="Group_620" data-name="Group 620">
+            <g id="Group_619" data-name="Group 619">
+              <path id="Path_2048" data-name="Path 2048" d="M31.3,3h-7.11l8.169,7.428V4.063A1.059,1.059,0,0,0,31.3,3Z" fill="#20c282"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+      
+  </g>
+</svg>
